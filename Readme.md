@@ -1,6 +1,6 @@
 # #Projeto em andamento#
 
-Projeto que está sendo feito pela NLW Heat da Rocketseat, pela trilha Impulse.
+Projeto que está sendo feito pela <a href="https://nextlevelweek.com/episodios/impulse/aula-1/edicao/7">NLW Heat da Rocketseat</a>, pela trilha Impulse.
 #
 
 ### AULA 1:
