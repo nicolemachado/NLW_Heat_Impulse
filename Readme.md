@@ -14,7 +14,7 @@ Tecnologias/depedências usadas:
 - socket.io
 - prisma
 - jsonwebtoken
-<br/>
+
 - Insomnia para verificar a validação, tokens e mensagens do backend.
 
 Essa primeira parte é o backend, onde criamos a parte de autenticação, token, ordenação de mensagem, callback, etc. 
